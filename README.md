@@ -1,6 +1,6 @@
 # Chimpanzee Test in React
 
-![Showcase image]((https://github.com/HemingErnestway/chimp-test/blob/main/showcase.png?raw=true))
+![Showcase image](https://github.com/HemingErnestway/chimp-test/blob/main/showcase.png?raw=true)
 
 ## Stack:
 - Vite
